@@ -1,8 +1,8 @@
-
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Join the chat at https://gitter.im/primefaces/primeng](https://badges.gitter.im/primefaces/primeng.svg)](https://gitter.im/primefaces/primeng?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![npm version](https://badge.fury.io/js/primeng.svg)](https://badge.fury.io/js/primeng)
 [![Build Status](https://travis-ci.org/primefaces/primeng.svg?branch=master)](https://travis-ci.org/primefaces/primeng)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FnimishaRa%2FangularUi.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FnimishaRa%2FangularUi?ref=badge_shield)
 
 # PrimeNG
 
@@ -61,3 +61,7 @@ Configure required styles at the styles section, example below uses the Omega th
 ```
 
 That is all, you may now import PrimeNG components, for a working example visit the [PrimeNG CLI QuickStart sample](https://github.com/primefaces/primeng-quickstart-cli) at GitHub.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FnimishaRa%2FangularUi.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FnimishaRa%2FangularUi?ref=badge_large)
